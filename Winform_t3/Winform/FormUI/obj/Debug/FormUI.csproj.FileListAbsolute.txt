@@ -1,0 +1,10 @@
+D:\Winform\Winform\FormUI\bin\Debug\FormUI.exe.config
+D:\Winform\Winform\FormUI\bin\Debug\FormUI.exe
+D:\Winform\Winform\FormUI\bin\Debug\FormUI.pdb
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.Form1.resources
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.exe
+D:\Winform\Winform\FormUI\obj\Debug\FormUI.pdb

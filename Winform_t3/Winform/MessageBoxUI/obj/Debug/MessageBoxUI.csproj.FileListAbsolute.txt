@@ -1,0 +1,10 @@
+D:\Winform\Winform\MessageBoxUI\bin\Debug\MessageBoxUI.exe.config
+D:\Winform\Winform\MessageBoxUI\bin\Debug\MessageBoxUI.exe
+D:\Winform\Winform\MessageBoxUI\bin\Debug\MessageBoxUI.pdb
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.csprojAssemblyReference.cache
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.Form1.resources
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.Properties.Resources.resources
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.csproj.GenerateResource.cache
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.exe
+D:\Winform\Winform\MessageBoxUI\obj\Debug\MessageBoxUI.pdb

@@ -1,0 +1,10 @@
+D:\Winform\Winform\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe.config
+D:\Winform\Winform\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe
+D:\Winform\Winform\PictureBoxGUI\bin\Debug\PictureBoxGUI.pdb
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.csprojAssemblyReference.cache
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.Form1.resources
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.Properties.Resources.resources
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.GenerateResource.cache
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.exe
+D:\Winform\Winform\PictureBoxGUI\obj\Debug\PictureBoxGUI.pdb

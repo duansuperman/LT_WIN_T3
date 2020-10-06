@@ -1,0 +1,15 @@
+D:\Winform\Winform\HR_Project\bin\Debug\HR_Project.exe.config
+D:\Winform\Winform\HR_Project\bin\Debug\HR_Project.exe
+D:\Winform\Winform\HR_Project\bin\Debug\HR_Project.pdb
+D:\Winform\Winform\HR_Project\bin\Debug\EntityFramework.dll
+D:\Winform\Winform\HR_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\Winform\HR_Project\bin\Debug\EntityFramework.xml
+D:\Winform\Winform\HR_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.csprojAssemblyReference.cache
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.Form1.resources
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.Properties.Resources.resources
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.csproj.GenerateResource.cache
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.csproj.CopyComplete
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.exe
+D:\Winform\Winform\HR_Project\obj\Debug\HR_Project.pdb

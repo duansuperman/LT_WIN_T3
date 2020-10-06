@@ -1,0 +1,11 @@
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.csprojAssemblyReference.cache
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.Form1.resources
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.Properties.Resources.resources
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.csproj.GenerateResource.cache
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\DataGridview\bin\Debug\DataGridview.exe.config
+D:\Winform\Winform\DataGridview\bin\Debug\DataGridview.exe
+D:\Winform\Winform\DataGridview\bin\Debug\DataGridview.pdb
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.exe
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.pdb
+D:\Winform\Winform\DataGridview\obj\Debug\DataGridview.Form2.resources

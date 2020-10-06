@@ -1,0 +1,12 @@
+D:\Winform\Winform\ButtonGUI\bin\Debug\ButtonGUI.exe.config
+D:\Winform\Winform\ButtonGUI\bin\Debug\ButtonGUI.exe
+D:\Winform\Winform\ButtonGUI\bin\Debug\ButtonGUI.pdb
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.csprojAssemblyReference.cache
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.Form1.resources
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.Properties.Resources.resources
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.csproj.GenerateResource.cache
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.exe
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.pdb
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.Form2.resources
+D:\Winform\Winform\ButtonGUI\obj\Debug\ButtonGUI.Form3.resources

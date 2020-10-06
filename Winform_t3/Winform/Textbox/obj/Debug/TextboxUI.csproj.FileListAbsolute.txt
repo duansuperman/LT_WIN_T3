@@ -1,0 +1,10 @@
+D:\Winform\Winform\Textbox\bin\Debug\Textbox.exe.config
+D:\Winform\Winform\Textbox\bin\Debug\Textbox.exe
+D:\Winform\Winform\Textbox\bin\Debug\Textbox.pdb
+D:\Winform\Winform\Textbox\obj\Debug\Textbox.Form1.resources
+D:\Winform\Winform\Textbox\obj\Debug\Textbox.Properties.Resources.resources
+D:\Winform\Winform\Textbox\obj\Debug\TextboxUI.csproj.GenerateResource.cache
+D:\Winform\Winform\Textbox\obj\Debug\TextboxUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\Textbox\obj\Debug\Textbox.exe
+D:\Winform\Winform\Textbox\obj\Debug\Textbox.pdb
+D:\Winform\Winform\Textbox\obj\Debug\Textbox.Form2.resources

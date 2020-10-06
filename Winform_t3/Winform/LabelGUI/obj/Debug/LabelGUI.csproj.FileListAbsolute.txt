@@ -1,0 +1,10 @@
+D:\Winform\Winform\LabelGUI\bin\Debug\LabelGUI.exe.config
+D:\Winform\Winform\LabelGUI\bin\Debug\LabelGUI.exe
+D:\Winform\Winform\LabelGUI\bin\Debug\LabelGUI.pdb
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.csprojAssemblyReference.cache
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.Properties.Resources.resources
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.csproj.GenerateResource.cache
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.exe
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.pdb
+D:\Winform\Winform\LabelGUI\obj\Debug\LabelGUI.fLogin.resources

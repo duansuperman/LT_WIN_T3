@@ -1,0 +1,15 @@
+D:\Winform\Winform\Student_Project\bin\Debug\Student_Project.exe.config
+D:\Winform\Winform\Student_Project\bin\Debug\Student_Project.exe
+D:\Winform\Winform\Student_Project\bin\Debug\Student_Project.pdb
+D:\Winform\Winform\Student_Project\bin\Debug\EntityFramework.dll
+D:\Winform\Winform\Student_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\Winform\Student_Project\bin\Debug\EntityFramework.xml
+D:\Winform\Winform\Student_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.csprojAssemblyReference.cache
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.Form1.resources
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.Properties.Resources.resources
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.csproj.GenerateResource.cache
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.csproj.CoreCompileInputs.cache
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.csproj.CopyComplete
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.exe
+D:\Winform\Winform\Student_Project\obj\Debug\Student_Project.pdb
